@@ -23,12 +23,12 @@
 @media screen and (max-width: 768px) {
   .container-notes .content .phrases {
     display: grid;
-    grid-template-columns: repeat(2, auto);
+    grid-template-columns: repeat(1, auto);
     gap: 1rem;
   }
   .container-notes .content .notes {
     display: grid;
-    grid-template-columns: repeat(2, auto);
+    grid-template-columns: repeat(1, auto);
     gap: 1rem;
   }
 }

@@ -34,12 +34,12 @@
         .content{
             .phrases{
                 display: grid;
-                grid-template-columns:repeat(2, auto) ;
+                grid-template-columns:repeat(1, auto) ;
                 gap: 1rem;
             }
             .notes{
                 display: grid;
-                grid-template-columns:repeat(2, auto) ;
+                grid-template-columns:repeat(1, auto) ;
                 gap: 1rem;
             }
         }

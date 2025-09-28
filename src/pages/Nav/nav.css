@@ -1,0 +1,18 @@
+.container-nav {
+  background-color: aquamarine;
+}
+.container-nav .nav-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.container-nav .nav-content .logo {
+  margin-left: 10px;
+}
+.container-nav .nav-content .logo h1 {
+  font-weight: 600;
+  font-size: 25px;
+}
+.container-nav .nav-content .logoff {
+  margin-right: 15px;
+}/*# sourceMappingURL=nav.css.map */

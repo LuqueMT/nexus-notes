@@ -1,3 +1,8 @@
+.card {
+  background: rgba(211, 209, 209, 0.089);
+  -webkit-backdrop-filter: blur(50px);
+          backdrop-filter: blur(50px);
+}
 .card .content p {
   text-align: justify;
 }
@@ -8,6 +13,9 @@
 }
 .container-notes .content {
   margin: 2rem;
+  gap: 1rem;
+  display: flex;
+  flex-direction: column;
 }
 .container-notes .content .phrases {
   display: grid;

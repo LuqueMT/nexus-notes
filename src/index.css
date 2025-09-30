@@ -5,10 +5,18 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
+  background: linear-gradient(65deg, rgb(2, 58, 16), #03363a);
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+p{
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  font-family: 'Times New Roman', Times, serif;
+}
+h2{
+  font-family: 'Times New Roman', Times, serif;
 }

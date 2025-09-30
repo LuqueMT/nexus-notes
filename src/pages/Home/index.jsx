@@ -9,9 +9,7 @@ function Home() {
             <div className="container-home">
                <Navigation />
                <div className="content">
-                  <div className="search-maping">
-                     <Notes/>
-                  </div>
+                  <Notes />
                </div>
                <Footer />
             </div>

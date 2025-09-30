@@ -26,7 +26,8 @@ function Notes() {
                         </div>
                         <div className="card">
                             <div className="content">
-                                <p>Aprender.
+                                <h2>Aprender</h2>
+                                <p>
                                     Aprender, o que seria aprender? Como se aprende algo? De que maneira é mais fácil fazer isso? Como nós podemos aprender algo e jamais esquecer?
                                     Aprender, nós aprendemos algo todos os dias de nossas vidas, aprendemos a ser mais pacientes e impacientes, mais compreensivos e ignorantes, mais ágeis e desmotivamos, mais tolerantes e arrogantes, mais reservados e expansivos, mais corajosos e medrosos, mais rudes e por aí uma infinidade de mais outras coisas. Mas o que devemos aprender todos os dias, o que devemos ressaltar, são as experiências que ganhamos a cada minuto que passa, pois estes definem no que nós nos tornamos e em que vamos nos tornar, isto que nos influencia a fazermos nossas ações, pois não basta muito para que nós sejamos mudados por algo que aconteceu em nossas vidas.
                                     A experiência que na qual ganhamos, a qual me refiro, seria como um "Bônus", pois nos faz passar por algo novo tanto bom quanto ruim, dependendo da maneira que acontece, nos faz mudar e, com esse ato, nos tornamos talvez uma pessoa diferente da que fomos antes, pois agora temos mais ampla capacidade de agirmos em momentos semelhantes ou igual a que foi imposto, ou seja, com o ganho da experiência, estamos mais aptos a sobreviver ao nosso mundo e sabendo lidar com coisas do nosso cotidiano.
@@ -37,6 +38,7 @@ function Notes() {
                         </div>
                         <div className="card">
                             <div className="content">
+                                <h2>Entre o Hoje e o Amanhã</h2>
                                 <p>Quantas vezes você já parou pra pensar em você mesmo, em suas ações? Não aquelas a que você fez no final de semana, ou na festinha dos amigos, mas sim, em suas ações do dia a dia. Você fica tão preocupado com coisas externas que não consegue reorganizar seus pensamentos e ter uma noção de como você transmite suas energias para as outras pessoas, está tão ocupado pensando no amanhã que hoje, você deixa passar como um dia qualquer, a "pré ocupação" te faz esquecer do “Você de agora, para se preocupar com o “você de amanhã”.
                                     É tão raro hoje em dia a gente dedicar um tempo para nós, estamos sempre robotizados a executar nossa rotina dia a dia sem se quer dar uma alterada na vírgula, prolongar o ponto final.
                                     Mas o que eu quero que você compreenda, é que não devemos nos ocupar com o amanhã, porque estamos vivendo o agora. Você deve se auto analisar e ver se você está sendo justo consigo mesmo(a), pois o tempo é indeterminado pra nós, assim como a vida, então lhe faço uma pergunta, você está satisfeito com suas ações? Pretende continuar assim? Vais seguir o rumo do teu próprio coração, ou vais refletir sobre ter razão?
@@ -46,7 +48,8 @@ function Notes() {
                         </div>
                         <div className="card">
                             <div className="content">
-                                <p>O que queremos? Como queremos? Quando Queremos?
+                                <h2>O que queremos? Como queremos? Quando Queremos?</h2>
+                                <p>
                                     Nós temos vários sonhos que podemos sim alcançá-los, independentemente do tamanho de e dimensão de nossos sonhos, nós temos capacidade de realizarmos qualquer coisa. Se nós seguirmos com determinação e foco, nada pode nos deter, pois temos uma capacidade gigantesca dentro de nós, que ao ser despertada, pode nos abrir um mundo de possibilidades.
                                     Nós somos quem somos, mas podemos ser mais - em um sentido de crescimento tanto mental quanto social - e isso só depende de nós, nossa força de vontade.
                                     Quando tudo parecer que não há mais escolhas, quando nada mais dar certo, quando tudo estiver sem rumo, quando nada mais funcionar, pare e respire, pense em você, não se desespere, respire novamente, pense em como você pode começar a dar um jeito nas coisa, por onde você pode começar para que as coisas tomem uma finalidade favorável para você, mas faça tudo em seu tempo, pois a pressa e a ansiedade pode desencadear outras coisa que lhe farão voltar à estaca zero, mas nunca, NUNCA, nunca devemos desistir de nossos sonhos, pois devemos lutar com todas as nossas forças mesmo que isso signifique nos jogarmos em frente a um mar de desafios, problemas e obstáculos, mas tudo isso faz parte da vida. Lute, faça, avance, caia, levante, mas nunca desista de seus sonhos e sempre acredite em seu potencial, pois você tem sim, e ele é imenso basta você querer e nunca perder o foco.

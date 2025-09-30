@@ -1,4 +1,6 @@
 .card{
+    background: rgba(211, 209, 209, 0.089);
+    backdrop-filter: blur(50px);
     h2{
 
     }
@@ -17,6 +19,9 @@
     align-items: center;
     .content{
         margin: 2rem;
+        gap: 1rem;
+        display: flex;
+        flex-direction: column;
         .phrases{
             display: grid;
             grid-template-columns:repeat(3, auto) ;
